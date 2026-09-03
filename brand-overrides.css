@@ -1,0 +1,7 @@
+:root{--ink:#29122e;--cream:#faeef7;--paper:#fffafd;--coral:#d91678;--blue:#6a2386;--line:#e6cfe1}
+.brand-logo{width:40px;height:32px;object-fit:contain}
+.button-dark{background:var(--blue)}
+.hero{background:var(--cream)}
+.hero h1 span,h2 i,.eyebrow,.event-type,.event-date,.event-arrow,.footer-instagram{color:var(--coral)}
+.sun{background:#e9a8c9}.quote-band{background:var(--blue)}.quote-band em{color:#f2b4da}.event-card.featured{background:#f8dced}.visual-choir{background:#d989b4}.visual-choir span:nth-child(2){color:var(--blue)}.visual-blue{background:#b996d1}.visual-gold{background:#e5a3c5}.instagram-cta{background:var(--coral)}
+.footer-instagram{display:flex;align-items:center}.footer-instagram svg{width:27px;height:27px;fill:none;stroke:currentColor;stroke-width:1.8}
